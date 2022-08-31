@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 git fetch
+=======
+git fetch 
+>>>>>>> update_script
 git pull
